@@ -5,6 +5,7 @@ using System;
 
 public class PlayerMove : MonoBehaviour
 {
+    //ˆÚ“®‘¬“x
     public float moveVelo;
 
     // Start is called before the first frame update
